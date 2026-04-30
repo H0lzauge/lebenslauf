@@ -4,7 +4,9 @@ draft = false
 title = ''
 menu = 'Startseite'
 +++
+
 Gordon Wiegand
+
 # Wilkommen auf meiner Seite 
 
-![pi](/bk.png)
+![pi](gw_v2.svg)

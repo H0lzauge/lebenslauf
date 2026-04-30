@@ -5,7 +5,7 @@ title = 'Lebenslauf'
 menu = 'Lebenslauf'
 +++
 
-<img src="/img/gw_portrait.png" width="130">
+<img src="gw_portrait.png" width="130">
 
 **Gordon Wiegand**<br>
 <small>Dr. phil.</small>

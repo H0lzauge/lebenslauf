@@ -9,7 +9,7 @@ menu = 'Privates'
 
 ## Astronomie
 Ein paar Sterne im Laufe der Nacht vom Nordpol aus gesehen. Der fixe Punkt in der Mitte ist der Polarstern. 
-![Sky](/sky.gif)
+![Sky](sky.gif)
 
 ## Mathe
 Ein Random-Walk der Ziffern von Pi. Die Vorschrift, die dieses Bild erzeugt hat, funktioniert sso:
