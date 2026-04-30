@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Fira Sans:12pt;
+    src: url('/fonts/FiraCodeNerdFont-Medium.ttf');
+}
+
+html {
+    font-family: font;
+}
