@@ -9,7 +9,7 @@ menu = 'Privates'
 
 ## Astronomie
 Ein paar Sterne im Laufe der Nacht vom Nordpol aus gesehen. Der fixe Punkt in der Mitte ist der Polarstern. 
-![Sky](/img/sky.gif)
+![Sky](/sky.gif)
 
 ## Mathe
 Ein Random-Walk der Ziffern von Pi. Die Vorschrift, die dieses Bild erzeugt hat, funktioniert sso:
@@ -17,17 +17,17 @@ Ein Random-Walk der Ziffern von Pi. Die Vorschrift, die dieses Bild erzeugt hat,
 2. Dann stelle man sich ein analoges Uhrenziffernblatt vor, allerdings nur mit 10 "Stunden", beziffert als 0 bis 9.
 3. Dann nehme man die Nachkommastellen von Pi als Wegbeschreibung und zeichne seinen Weg auf. Also wenn die Ziffer eine 3 ist, mache man einen Schritt in Richtung der Drei, bei 1 in Richtung Eins und so weiter. In dem Fall hier ergibt sich die Route nach circa 8'000 Schritten.
 
-![pi](/img/dpi300.jpg)
+![pi](/dpi300.jpg)
 
 ## Statistik
 _Statistisch gesehen_ heisst so alles Mögliche. Wäre ich beispielsweise ein durchschnittlicher Mann bezüglich meines Haarwuchses, wären mir bereits insgesamt , alle Haare am Körper zusammengelegt, bereits mehr als 1 Million Meter Haare gewachsen. Das kann man gar nicht mehr mit Fussballfeldern in der Grösse des Saarlands vergleichen, weil der Vergleich keinen Sinn ergibt.
 
-![pi](/img/haare.png)
+![pi](/haare.png)
 
 ## Comics
 Lest mehr Comics! Ausser ihr mögt keine Comics, dann lasst es bleiben.
 
-![comic](/img/comic.jpeg)
+![comic](/comic.jpeg)
 
 ## Schreiben
 Bücher habe ich auch schon mal geschrieben https://github.com/GordonWiegand/tina/blob/master/binder.pdf

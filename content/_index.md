@@ -7,4 +7,4 @@ menu = 'Startseite'
 Gordon Wiegand
 # Wilkommen auf meiner Seite 
 
-![pi](/img/bk.png)
+![pi](/bk.png)
