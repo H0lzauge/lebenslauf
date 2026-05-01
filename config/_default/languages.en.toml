@@ -1,28 +1,28 @@
 disabled = false
-locale = "en"
+locale = "de"
 label = "English"
 weight = 1
-# title = "Blowfish"
+title = ""
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "/gw_v2.svg"
+  # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "That's Me"
+  # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Gordon Wiegand"
-   email = "gordon.wiegand@mailbox.org"
-#   image = "img/gw_portrait.png"
+   # name = "Your name here"
+   # email = "youremail@example.com"
+#   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-#   headline = "About me"
- #  bio = "A little bit about you"
- #  links = [
- #    { email = "mailto:gordon.wiegand@mailbox.org" },
+#   headline = "I'm only human"
+#   bio = "A little bit about you"
+#   links = [
+#     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

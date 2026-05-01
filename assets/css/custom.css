@@ -1,8 +1,13 @@
 @font-face {
-    font-family: "Fira Sans";
-    src: url('/fonts/FiraCodeNerdFont-Medium.ttf') format("truetype");
+    font-family: "GeistMono NFP";
+    src: url('/fonts/GeistMonoNerdFontPropo-Medium.otf') format("opentype");
 }
 
 html {
-    font-family: "Fira Sans";
+    font-family: "GeistMono NFP";
 }
+
+body {
+  font-family: 'GeistMono NFP', sans-serif;
+}
+

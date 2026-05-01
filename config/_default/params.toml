@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
- mainSections = ["cv"]
+# mainSections = ["section1", "section2"]
 # robots = ""
 
 disableImageOptimization = false
@@ -46,19 +46,19 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
-  showMenu = true
+  showMenu = false
   showCopyright = false
   showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
-  layout = "card" # valid options: page, profile, hero, card, background, custom
- # homepageImage = "gw_portrait.png" # used in: hero, and card
+  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
-  showMoreLink = true
-  showMoreLinkDest = "/"
+  showMoreLink = false
+  showMoreLinkDest = "/posts/"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
@@ -70,9 +70,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = false
+  showAuthor = true
   # showAuthorBottom = false
-  showHero = true
+  showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
@@ -187,5 +187,4 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # userId = ""
 
 [advertisement]
-  # adsense = "":wq
-
+  # adsense = ""

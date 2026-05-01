@@ -5,8 +5,6 @@ title = ''
 menu = 'Startseite'
 +++
 
-Gordon Wiegand
-
-# Wilkommen auf meiner Seite 
+# Gordon Wiegand
 
 ![pi](gw_v2.svg)

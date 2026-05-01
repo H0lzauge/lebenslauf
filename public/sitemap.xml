@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/lebenslauf/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lebenslauf/cv/2_fhnw/</loc>
+    <loc>//localhost:1313/cv/2_fhnw/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lebenslauf/privates/hobbys/</loc>
+    <loc>//localhost:1313/privates/hobbys/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lebenslauf/privates/leben/</loc>
+    <loc>//localhost:1313/privates/leben/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lebenslauf/cv/</loc>
+    <loc>//localhost:1313/cv/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lebenslauf/cv/3_post/</loc>
+    <loc>//localhost:1313/cv/3_post/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lebenslauf/privates/</loc>
+    <loc>//localhost:1313/privates/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lebenslauf/cv/4_bazg/</loc>
+    <loc>//localhost:1313/cv/4_bazg/</loc>
     <lastmod>2026-04-04T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/lebenslauf/cv/1_ausbildung/</loc>
+    <loc>//localhost:1313/cv/1_ausbildung/</loc>
     <lastmod>2026-04-01T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
