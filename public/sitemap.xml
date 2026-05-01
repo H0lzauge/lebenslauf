@@ -15,6 +15,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/lebenslauf/privates/hobbys/</loc>
+    <lastmod>2026-04-29T09:17:01+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/lebenslauf/privates/leben/</loc>
+    <lastmod>2026-04-29T09:17:01+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/lebenslauf/cv/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>

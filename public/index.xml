@@ -22,6 +22,26 @@
     </item>
     
     <item>
+      <title>Hobbys</title>
+      <link>http://localhost:1313/lebenslauf/privates/hobbys/</link>
+      <pubDate>Wed, 29 Apr 2026 09:17:01 +0200</pubDate>
+      <author>gordon.wiegand@mailbox.org (Gordon Wiegand)</author>
+      <guid>http://localhost:1313/lebenslauf/privates/hobbys/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/privates/hobbys/featured.png" />
+    </item>
+    
+    <item>
+      <title>Leben</title>
+      <link>http://localhost:1313/lebenslauf/privates/leben/</link>
+      <pubDate>Wed, 29 Apr 2026 09:17:01 +0200</pubDate>
+      <author>gordon.wiegand@mailbox.org (Gordon Wiegand)</author>
+      <guid>http://localhost:1313/lebenslauf/privates/leben/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/privates/leben/featured.png" />
+    </item>
+    
+    <item>
       <title>Post</title>
       <link>http://localhost:1313/lebenslauf/cv/3_post/</link>
       <pubDate>Wed, 29 Apr 2026 09:17:01 +0200</pubDate>
@@ -29,16 +49,6 @@
       <guid>http://localhost:1313/lebenslauf/cv/3_post/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/cv/3_post/featured.png" />
-    </item>
-    
-    <item>
-      <title>Privates</title>
-      <link>http://localhost:1313/lebenslauf/privates/</link>
-      <pubDate>Wed, 29 Apr 2026 09:17:01 +0200</pubDate>
-      <author>gordon.wiegand@mailbox.org (Gordon Wiegand)</author>
-      <guid>http://localhost:1313/lebenslauf/privates/</guid>
-      <description></description>
-      
     </item>
     
     <item>

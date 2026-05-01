@@ -22,5 +22,5 @@ menu = 'Lebenslauf'
 
 ---
 
-Ich habe zwar in unterschiedlichgen Bereichen gearbeitet, aber doch hat sich letzendlich immer alles um Zahlen gedreht. Diese habe ich aus ganz vielen verschiedenen Sichtweisen gesehen. In der Lehre, in der Forschung, in der Analyse, in der Kommunikation, in der Anwendung, für das Management, als das Management, in der Entsteheung, in der Verarbeitung, im Transport, in der Darstellung, in der Organsiation.
+Ich habe in unterschiedlichen Bereichen gearbeitet, aber letztendlich drehte sich doch immer alles um Zahlen. Ich habe sie aus den unterschiedlichsten Perspektiven betrachtet. In der Lehre, in der Forschung, in der Analyse, in der Kommunikation, in der Anwendung, für das Management, als das Management, in der Entstehung, in der Verarbeitung, im Transport, in der Darstellung, in der Organisation.
 

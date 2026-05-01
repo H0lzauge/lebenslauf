@@ -21,7 +21,7 @@ Wissenschaftliche Hilfskraft beim Sonderforschungsbe-
 reich 216 an der Uni Leipzig (Unternehmensbefragung zur
 Standortbindung)
 
-### 1998 – 2008
+### 1998 – 1999  
 Erasmus Aufenthalt an der University of Teesside, Middles-
 brough, UK.
 

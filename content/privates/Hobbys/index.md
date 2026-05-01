@@ -1,11 +1,11 @@
 +++
 date = '2026-04-29T09:17:01+02:00'
 draft = false
-title = 'Privates'
-menu = 'Privates'
+title = 'Hobbys'
 +++
 
-# Ein paar Dinge, die mir Spass machen
+
+Mir macht alles Spass, was mit der Natur und sie zu verstehen zu tun hat. Schon als Kind habe ich die ersten Fossilien gesammelt, das mache ich auch heute noch gerne und begeitere mich für Geologie im Allgemeinen.
 
 ## Astronomie
 Ein paar Sterne im Laufe der Nacht vom Nordpol aus gesehen. Der fixe Punkt in der Mitte ist der Polarstern. 

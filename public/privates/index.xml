@@ -2,14 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privates on </title>
-    <link>//localhost:1313/privates/</link>
+    <link>http://localhost:1313/lebenslauf/privates/</link>
     <description>Recent content in Privates on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>gordon.wiegand@mailbox.org (Gordon Wiegand)</managingEditor>
     <webMaster>gordon.wiegand@mailbox.org (Gordon Wiegand)</webMaster>
     
-    <lastBuildDate></lastBuildDate><atom:link href="//localhost:1313/privates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Apr 2026 09:17:01 +0200</lastBuildDate><atom:link href="http://localhost:1313/lebenslauf/privates/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hobbys</title>
+      <link>http://localhost:1313/lebenslauf/privates/hobbys/</link>
+      <pubDate>Wed, 29 Apr 2026 09:17:01 +0200</pubDate>
+      <author>gordon.wiegand@mailbox.org (Gordon Wiegand)</author>
+      <guid>http://localhost:1313/lebenslauf/privates/hobbys/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/privates/hobbys/featured.png" />
+    </item>
+    
+    <item>
+      <title>Leben</title>
+      <link>http://localhost:1313/lebenslauf/privates/leben/</link>
+      <pubDate>Wed, 29 Apr 2026 09:17:01 +0200</pubDate>
+      <author>gordon.wiegand@mailbox.org (Gordon Wiegand)</author>
+      <guid>http://localhost:1313/lebenslauf/privates/leben/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/privates/leben/featured.png" />
+    </item>
     
   </channel>
 </rss>

@@ -21,6 +21,11 @@
   weight = 3
 
 [[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
   identifier = "email"
   pre = "email"
   url = "mailto:gordon.wiegand@mailbox.org"
