@@ -9,16 +9,15 @@ menu = 'Lebenslauf'
 
 **Gordon Wiegand**<br>
 <small>Dr. phil.</small>
-> Turnweg 2<br>
+> Gummenacher 4A<br>
 > 2562 Port<br>
 > 079 883 81 76<br>
 > gordon.wiegand@mailbox.org
 
----
-
 `Geburtstag`: 7. Aug 1975<br>
 `Nationalitäten`: Schweiz und Deutschland<br>
-`Kinder`: Linda (18) und Paula (14)<br>
+
+ <small>[vCard](gw.vcf)</small>
 
 ---
 

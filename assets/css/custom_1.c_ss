@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "GeistMono NFP";
+    src: url('/fonts/GeistMonoNerdFontPropo-Medium.otf') format("postscript");
+}
+
+html {
+    font-family: "GeistMono NFP";
+}
+
+body {
+  font-family: 'GeistMono NFP', sans-serif;
+}
+

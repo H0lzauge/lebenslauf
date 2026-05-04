@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/lebenslauf/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-    <lastBuildDate>Wed, 29 Apr 2026 09:17:01 +0200</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Apr 2026 09:17:01 +0200</lastBuildDate><atom:link href="http://localhost:1313/lebenslauf/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>FHNW</title>
-      <link>//localhost:1313/cv/2_fhnw/</link>
+      <link>http://localhost:1313/lebenslauf/cv/2_fhnw/</link>
       <pubDate>Wed, 29 Apr 2026 09:17:01 +0200</pubDate>
       
-      <guid>//localhost:1313/cv/2_fhnw/</guid>
+      <guid>http://localhost:1313/lebenslauf/cv/2_fhnw/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/cv/2_fhnw/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/cv/2_fhnw/featured.png" />
     </item>
     
     <item>
       <title>Hobbys</title>
-      <link>//localhost:1313/privates/hobbys/</link>
+      <link>http://localhost:1313/lebenslauf/privates/hobbys/</link>
       <pubDate>Wed, 29 Apr 2026 09:17:01 +0200</pubDate>
       
-      <guid>//localhost:1313/privates/hobbys/</guid>
+      <guid>http://localhost:1313/lebenslauf/privates/hobbys/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/privates/hobbys/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/privates/hobbys/featured.png" />
     </item>
     
     <item>
       <title>Leben</title>
-      <link>//localhost:1313/privates/leben/</link>
+      <link>http://localhost:1313/lebenslauf/privates/leben/</link>
       <pubDate>Wed, 29 Apr 2026 09:17:01 +0200</pubDate>
       
-      <guid>//localhost:1313/privates/leben/</guid>
+      <guid>http://localhost:1313/lebenslauf/privates/leben/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/privates/leben/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/privates/leben/featured.png" />
     </item>
     
     <item>
       <title>Post</title>
-      <link>//localhost:1313/cv/3_post/</link>
+      <link>http://localhost:1313/lebenslauf/cv/3_post/</link>
       <pubDate>Wed, 29 Apr 2026 09:17:01 +0200</pubDate>
       
-      <guid>//localhost:1313/cv/3_post/</guid>
+      <guid>http://localhost:1313/lebenslauf/cv/3_post/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/cv/3_post/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/cv/3_post/featured.png" />
     </item>
     
     <item>
       <title>BAZG</title>
-      <link>//localhost:1313/cv/4_bazg/</link>
+      <link>http://localhost:1313/lebenslauf/cv/4_bazg/</link>
       <pubDate>Sat, 04 Apr 2026 09:17:01 +0200</pubDate>
       
-      <guid>//localhost:1313/cv/4_bazg/</guid>
+      <guid>http://localhost:1313/lebenslauf/cv/4_bazg/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/cv/4_bazg/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/cv/4_bazg/featured.png" />
     </item>
     
     <item>
       <title>Ausbildung</title>
-      <link>//localhost:1313/cv/1_ausbildung/</link>
+      <link>http://localhost:1313/lebenslauf/cv/1_ausbildung/</link>
       <pubDate>Wed, 01 Apr 2026 09:17:01 +0200</pubDate>
       
-      <guid>//localhost:1313/cv/1_ausbildung/</guid>
+      <guid>http://localhost:1313/lebenslauf/cv/1_ausbildung/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/cv/1_ausbildung/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/lebenslauf/cv/1_ausbildung/featured.png" />
     </item>
     
   </channel>

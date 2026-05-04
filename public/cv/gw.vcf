@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.4.2//EN
+N:Wiegand;Gordon;;;
+FN:Gordon Wiegand
+EMAIL;TYPE=INTERNET,HOME,pref;PREF=1:gordon.wiegand@mailbox.org
+TEL;TYPE=IPHONE,CELL,VOICE,pref:+41798838176
+ITEM1.ADR;TYPE=HOME,pref:;;Gummenacher 4A;Port;;2562;Schweiz
+ITEM1.X-ABADR:de
+BDAY;VALUE=DATE:19750807
+URL:https://H0lzauge.github.io/Lebenslauf
+UID:74f869ef-45f9-46a2-9a9c-d8a7b54ce3d8
+END:VCARD

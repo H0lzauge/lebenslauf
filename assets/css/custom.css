@@ -1,13 +1,13 @@
 @font-face {
-    font-family: "GeistMono NFP";
-    src: url('/fonts/GeistMonoNerdFontPropo-Medium.otf') format("opentype");
+    font-family: "iMWritingMono Nerd Font";
+    src: url('/fonts/iMWritingMonoNerdFont-Regular.ttf') format("truetype");
 }
 
 html {
-    font-family: "GeistMono NFP";
+    font-family: "iMWritingMono Nerd Font";
 }
 
 body {
-  font-family: 'GeistMono NFP', sans-serif;
+  font-family: 'iMWritingMono Nerd Font', sans-serif;
 }
 

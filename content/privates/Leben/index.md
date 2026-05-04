@@ -16,5 +16,5 @@ Was bestimmt prägend war, ich bin habe schon in einigen Ländern gewohnt.
 
 Hier bin ich Papa geworden.
 
-- [ *name geschwärzt* ], die eine Tochter, die ich am liebsten habe
-- [ *name geschwärzt* ], die andere Tochter, die ich am liebsten habe
+- [ *Name geschwärzt* ], die eine Tochter, die ich am liebsten habe
+- [ *Name geschwärzt* ], die andere Tochter, die ich am liebsten habe

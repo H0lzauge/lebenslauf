@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/lebenslauf/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/cv/2_fhnw/</loc>
+    <loc>http://localhost:1313/lebenslauf/cv/2_fhnw/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/privates/hobbys/</loc>
+    <loc>http://localhost:1313/lebenslauf/privates/hobbys/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/privates/leben/</loc>
+    <loc>http://localhost:1313/lebenslauf/privates/leben/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/cv/</loc>
+    <loc>http://localhost:1313/lebenslauf/cv/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/cv/3_post/</loc>
+    <loc>http://localhost:1313/lebenslauf/cv/3_post/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/privates/</loc>
+    <loc>http://localhost:1313/lebenslauf/privates/</loc>
     <lastmod>2026-04-29T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/cv/4_bazg/</loc>
+    <loc>http://localhost:1313/lebenslauf/cv/4_bazg/</loc>
     <lastmod>2026-04-04T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/cv/1_ausbildung/</loc>
+    <loc>http://localhost:1313/lebenslauf/cv/1_ausbildung/</loc>
     <lastmod>2026-04-01T09:17:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
