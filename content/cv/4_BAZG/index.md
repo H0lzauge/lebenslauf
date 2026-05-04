@@ -4,8 +4,8 @@ draft = false
 title = 'BAZG'
 +++
 
-# 2018 – 2022 
-## Data Officer des Bundesamts für Zoll und Grenzsicherheit
+## 2018 – 2022 
+### Data Officer des Bundesamts für Zoll und Grenzsicherheit
 
 Als erster und alleiniger Data Officer habe ich die Data-Governance-Organisation des BAZG aufgebaut und etabliert. Grundlage ist die von mir entwickelte Data Policy. Die Data-Governance-Organisation ist als Schnittstelle zwischen IT und Management ein zentraler Bestandteil des digitalen Transformationsprozesses des BAZG. Konkret bedeutete diese Aufgabe die Einführung einer softwaregestützten Systematik der Datenorganisation einschließlich der Zuteilung von Domänen, Eigentümerschaft und Verantwortlichkeiten; vor allem aber die Definition von Prozessen. 
 

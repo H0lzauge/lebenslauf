@@ -13,32 +13,26 @@ Promotion zum Dr. phil. an der Universität Basel, Institut für Soziologie mit 
 Mehrwöchige Weiterbildung im Bereich «Projektmanagement», FHNW Basel.
 
 ### 2002 – 2003
-Halbjähriges Praktikum beim Automobilzulieferer FER mexicana,
-in Puebla, Mexiko, als Assistent der Geschäftsleitung
+Halbjähriges Praktikum beim Automobilzulieferer FER mexicana, in Puebla, Mexiko, als Assistent der Geschäftsleitung
 
 ### 1997 – 1998 
-Wissenschaftliche Hilfskraft beim Sonderforschungsbe-
-reich 216 an der Uni Leipzig (Unternehmensbefragung zur
-Standortbindung)
+Wissenschaftliche Hilfskraft bei einem Sonderforschungsbereich der Uni Leipzig
 
 ### 1998 – 1999  
-Erasmus Aufenthalt an der University of Teesside, Middles-
-brough, UK.
+Erasmus Aufenthalt an der University of Teesside, Middlesbrough, UK.
 
 ### 1998
 Dreimonatiges Praktikum beim Kassler Büro für empirische Sozialforschung in Erfurt (D)
 
 ### 1995 – 2002
-Studium der Soziologie an der Universität Leipzig, Nebenfach
-VWL, mit Schwerpunkt empirische Methoden und Statistik. Ab-
-schluss als Diplom-Soziologe (entspricht Master-Niveau).
+Studium der Soziologie an der Universität Leipzig, Nebenfach VWL, mit Schwerpunkt empirische Methoden und Statistik. Abschluss als Diplom-Soziologe (entspricht Master-Niveau).
 
 ### 1994 – 1995 
-13 Monate Zivildienst bei der Diakonie Eisenach, Behindertenwerkstatt und Wohnheim
+13 Monate Zivildienst bei der Diakonie Eisenach, Behindertenwerkstatt und -wohnheim
 Ausbildung
 
 ### 1982 – 1994
-Schulbesuche: Botschaftsschule in Bogotá (Kolumbien), Treffurt, Eisenach, Suhl, zuletzt Gymnasium Ruhla (alle D). Abschluss Abitur mit Leistungsfächern Mathematik und Geschichte.
+Schulbesuche: Botschaftsschule in Bogotá (Kolumbien), Treffurt, Eisenach, Suhl, zuletzt Gymnasium Ruhla (alle D). Abschluss: Abitur mit Leistungsfächern Mathematik und Geschichte.
 
 
 
