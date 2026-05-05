@@ -3,7 +3,7 @@ date = '2026-04-29T09:17:01+02:00'
 draft = false
 title = 'Leben'
 +++
-Was bestimmt prägend war, ich bin habe schon in einigen Ländern gewohnt.
+Ja, ich habe schom im vielen Ländern gewohnt.
 
 ![Sky](leben.svg)
 

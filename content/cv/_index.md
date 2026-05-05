@@ -17,9 +17,9 @@ menu = 'Lebenslauf'
 `Geburtstag`: 7. Aug 1975<br>
 `Nationalitäten`: Schweiz und Deutschland<br>
 
- <small>[vCard](gw.vcf)</small>
+ <small>download [vCard](gw.vcf)</small> 
 
 ---
 
-Ich habe in unterschiedlichen Bereichen gearbeitet, aber letztendlich drehte sich doch immer alles um Zahlen. Ich habe sie aus den unterschiedlichsten Perspektiven betrachtet. In der Lehre, in der Forschung, in der Analyse, in der Kommunikation, in der Anwendung, für das Management, als das Management, in der Entstehung, in der Verarbeitung, im Transport, in der Darstellung, in der Organisation.
+Ich habe in unterschiedlichen Bereichen gearbeitet, aber letztendlich drehte sich doch immer alles um Zahlen. Ich habe sie aus den spannendsten Perspektiven betrachtet. In der Lehre, in der Forschung, in der Analyse, in der Kommunikation, in der Anwendung, für das Management, als das Management, in der Entstehung, in der Verarbeitung, im Transport, in der Darstellung, in der Organisation.
 
