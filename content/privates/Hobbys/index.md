@@ -12,10 +12,10 @@ Ein paar Sterne im Laufe der Nacht vom Nordpol aus gesehen. Der fixe Punkt in de
 ![Sky](sky.gif)
 
 ## Mathe
-Ein Random-Walk der Ziffern von Pi. Die Vorschrift, die dieses Bild erzeugt hat, funktioniert so:
+Ein Random-Walk der Ziffern von π (Pi). Die Vorschrift, die dieses Bild erzeugt hat, funktioniert so:
 1. Man startet an einem beliebigen Punkt. 
 2. Dann stelle man sich ein analoges Uhrenziffernblatt vor, allerdings nur mit 10 "Stunden", beziffert als 0 bis 9.
-3. Dann nehme man die Nachkommastellen von Pi als Wegbeschreibung und zeichne seinen Weg auf. Also wenn die Ziffer eine 3 ist, mache man einen Schritt in Richtung der Drei, bei 1 in Richtung Eins und so weiter. In dem Fall hier ergibt sich die Route nach circa 8'000 Schritten.
+3. Dann nehme man die Nachkommastellen von π als Wegbeschreibung und zeichne seinen Weg auf. Also wenn die Ziffer eine 3 ist, mache man einen Schritt in Richtung der Drei, bei 1 in Richtung Eins und so weiter. In dem Fall hier ergibt sich die Route nach circa 8'000 Schritten.
 
 ![pi](/dpi300.jpg)
 
