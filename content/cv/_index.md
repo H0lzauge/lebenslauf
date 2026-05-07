@@ -18,6 +18,7 @@ menu = 'Lebenslauf'
 `Nationalitäten`: Schweiz und Deutschland<br>
 
  <small>download [vCard](gw.vcf)</small> 
+ <small>download [CV](cv_gw.pdf) als PDF</small> 
 
 ---
 
