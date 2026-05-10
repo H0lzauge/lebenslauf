@@ -17,7 +17,7 @@ menu = 'Lebenslauf'
 `Geburtstag`: 7. Aug 1975<br>
 `Nationalitäten`: Schweiz und Deutschland<br>
 
- <small>download [vCard](gw.vcf)</small> 
+ <small>download [vCard](gw.vcf)</small><br> 
  <small>download [CV](cv_gw.pdf) als PDF</small> 
 
 ---

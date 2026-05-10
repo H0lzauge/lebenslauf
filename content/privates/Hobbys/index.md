@@ -4,7 +4,6 @@ draft = false
 title = 'Hobbys'
 +++
 
-
 Mir macht alles Spass, was mit der Natur und sie zu verstehen zu tun hat. Schon als Kind habe ich die ersten Fossilien gesammelt, das mache ich auch heute noch gerne und begeistere mich für Geologie im Allgemeinen.
 
 ## Astronomie
