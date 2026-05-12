@@ -39,6 +39,6 @@ Ganz viel. Wandern, Brot backen, Löcher in die Luft starren, etwas bauen, neue 
 
 ---
 
-Auch diese Seite wurde mit einer riesigen Zahl von Open Source Software realisiert. Neben den vielen unsichtbaren waren das [Arch Linux](https://archlinux.org/), [Neovim](https://neovim.io/), [Git](https://git-scm.com/), [Hugo](https://gohugo.io/), [Blowfish](https://blowfish.page/), [Inkscape](https://inkscape.org), [R](https://www.r-project.org/).
+Auch diese Seite wurde mit einiger Open Source Software realisiert. Neben den vielen unsichtbaren waren das [Arch Linux](https://archlinux.org/), [Neovim](https://neovim.io/), [Git](https://git-scm.com/), [Hugo](https://gohugo.io/), [Blowfish](https://blowfish.page/), [Inkscape](https://inkscape.org), [R](https://www.r-project.org/).
 
 

@@ -29,7 +29,6 @@ Studium der Soziologie an der Universität Leipzig, Nebenfach VWL, mit Schwerpun
 
 ### 1994 – 1995 
 13 Monate Zivildienst bei der Diakonie Eisenach, Behindertenwerkstatt und -wohnheim
-Ausbildung
 
 ### 1982 – 1994
 Schulbesuche: Botschaftsschule in Bogotá (Kolumbien), Treffurt, Eisenach, Suhl, zuletzt Gymnasium Ruhla (alle D). Abschluss: Abitur mit Leistungsfächern Mathematik und Geschichte.

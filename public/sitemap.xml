@@ -1,65 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url>
-    <loc>http://localhost:1313/lebenslauf/</loc>
-    <lastmod>2026-04-29T09:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/lebenslauf/cv/2_fhnw/</loc>
-    <lastmod>2026-04-29T09:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/lebenslauf/privates/hobbys/</loc>
-    <lastmod>2026-04-29T09:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/lebenslauf/privates/leben/</loc>
-    <lastmod>2026-04-29T09:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/lebenslauf/cv/</loc>
-    <lastmod>2026-04-29T09:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/lebenslauf/cv/3_post/</loc>
-    <lastmod>2026-04-29T09:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/lebenslauf/privates/</loc>
-    <lastmod>2026-04-29T09:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/lebenslauf/cv/4_bazg/</loc>
-    <lastmod>2026-04-04T09:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/lebenslauf/cv/5_giab/</loc>
-    <lastmod>2026-04-04T09:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/lebenslauf/cv/1_ausbildung/</loc>
-    <lastmod>2026-04-01T09:17:01+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://localhost:1313/lebenslauf/de/sitemap.xml</loc>
+    
+      <lastmod>2026-04-29T09:17:01+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/lebenslauf/en/sitemap.xml</loc>
+    
+      <lastmod>2026-04-29T09:17:01+02:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

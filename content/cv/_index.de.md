@@ -5,7 +5,7 @@ title = 'Lebenslauf'
 menu = 'Lebenslauf'
 +++
 
-<img src="gw_portrait.png" width="130">
+![ich](gw.png)
 
 **Gordon Wiegand**<br>
 <small>Dr. phil.</small>
@@ -18,7 +18,8 @@ menu = 'Lebenslauf'
 `Nationalitäten`: Schweiz und Deutschland<br>
 
  <small>download [vCard](gw.vcf)</small><br> 
- <small>download [CV](cv_gw.pdf) als PDF</small> 
+ <small>download [CV](cv_gw_de.pdf) Deutsch</small><br> 
+ <small>download [CV](cv_gw_en.pdf) English</small> 
 
 ---
 

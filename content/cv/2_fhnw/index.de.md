@@ -11,6 +11,6 @@ Die Arbeit an der Fachhochschule teilte sich in zwei grosse Aufgabengebiete auf.
 - Eines der grössten Projekte war die Unterstützung des Bundesamts für Statistik bei der Entwicklung neuer Methoden.
 - Für Mediapulse habe ich bei der Entwicklung neuer Stichprobenpläne zur Messung der Einschaltquoten mitgearbeitet. 
 - Für das LINK-Institut habe ich eine neue Methode adaptiert, die dabei hilft, den Bias bei Befragungen zu reduzieren.
-- Ich habe verschiedene weitere Institutionen wie z. B. Novartis, die Britische Botschaft, mittelständische Unternehmen, Behörden, einschließlich der EU, unterstützt. 
+- Ich habe verschiedene weitere Institutionen wie z. B. Novartis, die Britische Botschaft, mittelständische Unternehmen, Behörden, einschliesslich der EU, unterstützt. 
 
 Zudem war ich im Unterricht tätig. Neben Statistik habe ich Fächer wie „Forschungsmethoden” und „Fragebogenentwicklung” sowohl in den Studiengängen Betriebsökonomie, als auch Angewandte Psychologie unterrichtet. Zusätzlich habe ich verschiedene Weiterbildungskurse zu ähnlichen Themen angeboten.
